@@ -1,0 +1,39 @@
+html, body{
+    height: 100%;
+    max-height: 100%;
+}
+
+.top-container{
+    padding-top: 5%;
+}
+
+.general-container{
+    background: url('img/site-bg-img.jpg');
+    height: 100%;
+}
+
+.title{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: snow;
+    text-align: center;
+    font-weight: 300;
+}
+
+.main{
+    font-size: 45px;
+    font-weight: 100;
+}
+
+.button-gray{
+    background-color: #c5b397;
+    border: none;
+}
+
+.button-gray:hover{
+    background-color: #b8a280;
+    border: none;
+}
+
+.form-inline{
+    margin-top: 30px;
+}
